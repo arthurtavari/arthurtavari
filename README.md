@@ -6,7 +6,7 @@ Sou formado em Administração e entusiasta da Tecnologia, tenho 7 anos de exper
 Criei este repositório para compartilhar alguns projetos práticos e estudos nas áreas de Engenharia e Ciência de Dados.
 <br>
 
-# Projetos
+# Projetos:
 ### Engenharia de Dados:
 *Consulta de CNAE na Receita Federal via API:* [Acesse](https://github.com/arthurtavari/api_receitaws)
 <br>
