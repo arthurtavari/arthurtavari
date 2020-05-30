@@ -1,5 +1,4 @@
 ![img](https://raw.githubusercontent.com/arthurtavari/portfolio_data_science/master/img/layout.jpg)
----
 Criei este repositório para compartilhar alguns projetos práticos e estudos nas áreas de Engenharia e Ciência de Dados.
   <br>
   
