@@ -20,12 +20,12 @@ Sou formado em Administração de Empresas e entusiasta da Tecnologia, com 6 ano
 Experiência com implementação de ferramentas (Zendesk/Chatbot), mapeamento e automação de processos, extração e consolidação de dados através de ferramentas de BI, desenvolvimento de relatórios e análise de dados.
   <br>
   <br>
-*CRM & Chatbot:*
+**CRM & Chatbot:**
   <br>
 Salesforce | Zendesk | Watson Assistant
   <br>
   <br>
-*Visualização de Dados:*
+**Visualização de Dados:**
   <br>
 Data Studio | Gooddata | Looker | Power BI | SQL 
   <br> 
