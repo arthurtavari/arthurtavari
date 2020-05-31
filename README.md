@@ -22,6 +22,4 @@ Experiência com implementação de ferramentas (Zendesk/Chatbot), mapeamento e 
   <br>
   <br> 
   
-[Linkedin](https://www.linkedin.com/in/arthurtavari/)
-  <br> 
-[Blog](https://www.tavari.com.br)
+[Linkedin](https://www.linkedin.com/in/arthurtavari/) | [Blog](https://www.tavari.com.br)
