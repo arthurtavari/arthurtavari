@@ -21,6 +21,7 @@ Administrador por formação e entusiasta da Tecnologia, tenho 6 anos de experi�
 Experiência com implementação de ferramentas (Zendesk/Chatbot), mapeamento e automação de processos, extração e consolidação de dados através de ferramentas de BI, desenvolvimento de relatórios e análise de dados.
   <br>
   <br> 
+  
 [Linkedin](https://www.linkedin.com/in/arthurtavari/)
   <br> 
 [Blog](https://www.tavari.com.br)
