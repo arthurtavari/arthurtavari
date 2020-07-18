@@ -13,13 +13,4 @@ Criei este repositório para compartilhar alguns projetos práticos e estudos na
   <br>
   <br>
 
-# Sobre mim:
-<br>
-Administrador por formação e entusiasta da Tecnologia, tenho 6 anos de experiência em empresas no e-commerce, participei em projetos nas áreas de relacionamento, marketing, comercial, tecnologia e BI.
-<br>
-<br>
-Experiência com implementação de ferramentas (Zendesk/Chatbot), mapeamento e automação de processos, extração e consolidação de dados através de ferramentas de BI, desenvolvimento de relatórios e análise de dados.
-  <br>
-  <br> 
-  
 [Linkedin](https://www.linkedin.com/in/arthurtavari/) | [Blog](https://www.tavari.com.br)
