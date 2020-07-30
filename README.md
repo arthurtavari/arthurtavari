@@ -1,4 +1,4 @@
-![img](https://raw.githubusercontent.com/arthurtavari/arthurtavari/master/img/0.jpg)
+![img](https://github.com/arthurtavari/arthurtavari/blob/master/img/layout.jpg)
 Criei este repositório para compartilhar alguns projetos práticos e estudos nas áreas de Engenharia e Ciência de Dados.
   <br>
   
