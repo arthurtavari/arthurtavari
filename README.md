@@ -10,8 +10,6 @@ Criei este repositório para compartilhar alguns projetos práticos e estudos na
   <br>
 *Crawler para coleta de indicadores fundamentalistas de empresas listadas na Bolsa de Valores (B3):* [Acesse](https://github.com/arthurtavari/ETL_crawler_dados_b3)  
   <br>  
-  <br>
-  
 ### Ciência de Dados:
   <br>
   <br>
