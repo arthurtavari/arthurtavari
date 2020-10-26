@@ -8,7 +8,7 @@ Criei este repositório para compartilhar alguns projetos práticos e estudos na
   <br>
 *Gastos Públicos 2019 e 2020 via API:* [Acesse](https://github.com/arthurtavari/gastos_publicos)
   <br>
-*Crawler para coleta de indicadores fundamentalistas de empresas listadas na Bolsa de Valores (B3):* [Acesse](https://github.com/arthurtavari/ETL_crawler_dados_b3)  
+*Crawler para coleta de indicadores fundamentalistas de empresas listadas na Bolsa de Valores (B3):* [Acesse](https://github.com/arthurtavari/ETL_crawler_fundamentalistas_B3)  
   <br>  
 ### Ciência de Dados:
   <br>
