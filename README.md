@@ -1,6 +1,6 @@
 ![img](https://github.com/arthurtavari/arthurtavari/blob/master/img/layout.jpg)
-# Projetos:
-Criei este repositório para compartilhar alguns projetos práticos e estudos nas áreas de Engenharia e Ciência de Dados.  
+### Portfólio:
+Criei este repositório para compartilharalguns projetos práticos e estudos nas áreas de Engenharia e Ciência de Dados.  
 
 *Consulta de CNAE na Receita Federal via API:* [Acesse](https://github.com/arthurtavari/api_receitaws)
   <br>
