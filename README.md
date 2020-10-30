@@ -1,4 +1,5 @@
 ![img](https://github.com/arthurtavari/arthurtavari/blob/master/img/layout.jpg)
+_________________
 ### Portfólio:
 Criei este repositório para compartilharalguns projetos práticos e estudos nas áreas de Engenharia e Ciência de Dados.  
 
