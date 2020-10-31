@@ -1,7 +1,7 @@
 ![img](https://github.com/arthurtavari/arthurtavari/blob/master/img/layout.jpg)
 _________________
 
-Criei este repositório para compartilhar alguns projetos práticos e estudos nas áreas de Engenharia e Ciência de Dados.  
+Criei este repositório para compartilhar alguns projetos e estudos nas áreas de Engenharia e Ciência de Dados.  
 
 ***Projetos focados na extração de dados através de APIs e crawlers:***
 
