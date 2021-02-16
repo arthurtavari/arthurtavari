@@ -11,5 +11,3 @@ Criei este repositório para compartilhar meus estudos e projetos na área de da
 ***Bootcamp:***  
 * *Data Science na Digital House:* [Projetos](https://github.com/arthurtavari/digital_house_data_science)
 * *Data Engineer no IGTI:* [Projetos](https://github.com/arthurtavari)
-
-[Linkedin](https://www.linkedin.com/in/arthurtavari/)
