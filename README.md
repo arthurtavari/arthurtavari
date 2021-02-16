@@ -1,7 +1,7 @@
 ![img](https://github.com/arthurtavari/arthurtavari/blob/master/img/layout.jpg)
 _________________
 
-Criei este repositório para compartilhar alguns projetos e estudos nas áreas de engenharia e ciência de dados.  
+Repositório com projetos e estudos nas áreas de engenharia e ciência de dados.  
 
 ***Projetos focados na extração de dados através de APIs e crawlers:***
 
@@ -9,9 +9,9 @@ Criei este repositório para compartilhar alguns projetos e estudos nas áreas d
 * *Gastos Públicos 2019 e 2020 via API:* [Acesse](https://github.com/arthurtavari/gastos_publicos)
 * *Crawler para coleta de indicadores fundamentalistas de empresas listadas na Bolsa de Valores (B3):* [Acesse](https://github.com/arthurtavari/ETL_crawler_fundamentalistas_B3)
 
-***Bootcamps:***  
-* *Projetos disponíveis do Curso de Data Science na Digital House:* [Acesse](https://github.com/arthurtavari/digital_house_data_science)
-* *Projetos disponíveis do Bootcamp de Engenharia de Dados no IGTI:* [Acesse](https://github.com/arthurtavari)
+***Projetos de Cursos e Bootcamps:***  
+* *Data Science na Digital House:* [Acesse](https://github.com/arthurtavari/digital_house_data_science)
+* *Data Engineer no IGTI:* [Acesse](https://github.com/arthurtavari)
 
 ***Sobre:***
 
