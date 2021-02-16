@@ -9,6 +9,9 @@ Criei este repositório para compartilhar alguns projetos e estudos nas áreas d
 * *Gastos Públicos 2019 e 2020 via API:* [Acesse](https://github.com/arthurtavari/gastos_publicos)
 * *Crawler para coleta de indicadores fundamentalistas de empresas listadas na Bolsa de Valores (B3):* [Acesse](https://github.com/arthurtavari/ETL_crawler_fundamentalistas_B3)
 
+***Bootcamps:***  
+* *Curso de Data Science na Digital House com carga horária de 200h, todos projetos disponíveis:* [Acesse](https://github.com/arthurtavari/digital_house_data_science)
+
 ***Sobre:***
 
 Administrador por formação e entusiasta da Tecnologia, tenho 7 anos de experiência em empresas no e-commerce, participei de projetos nas áreas de relacionamento, marketing, comercial, tecnologia e BI.
