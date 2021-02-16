@@ -10,7 +10,8 @@ Criei este repositório para compartilhar alguns projetos e estudos nas áreas d
 * *Crawler para coleta de indicadores fundamentalistas de empresas listadas na Bolsa de Valores (B3):* [Acesse](https://github.com/arthurtavari/ETL_crawler_fundamentalistas_B3)
 
 ***Bootcamps:***  
-* *Curso de Data Science na Digital House. Projetos disponíveis:* [Acesse](https://github.com/arthurtavari/digital_house_data_science)
+* *Projetos disponíveis do Curso de Data Science na Digital House:* [Acesse](https://github.com/arthurtavari/digital_house_data_science)
+* *Projetos disponíveis do Bootcamp de Engenharia de Dados no IGTI:* [Acesse](https://github.com/arthurtavari)
 
 ***Sobre:***
 
